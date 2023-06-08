@@ -1,2 +1,2 @@
 # Stealers
-All about stealer
+All about infostealers
